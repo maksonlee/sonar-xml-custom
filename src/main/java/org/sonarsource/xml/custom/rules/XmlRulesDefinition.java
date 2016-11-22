@@ -1,8 +1,6 @@
 package org.sonarsource.xml.custom.rules;
 
 import org.sonar.api.rule.RuleKey;
-import org.sonar.api.rule.RuleStatus;
-import org.sonar.api.rule.Severity;
 import org.sonar.api.server.rule.RulesDefinition;
 
 public class XmlRulesDefinition implements RulesDefinition {
